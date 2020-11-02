@@ -1,0 +1,17 @@
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\Console.UI.exe.config
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\Console.UI.exe
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\Console.UI.pdb
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\PersonelApp.DAL.dll
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\PersonelApp.Domains.dll
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\PersonelApp.DAL.pdb
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\PersonelApp.DAL.dll.config
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\obj\Debug\Console.UI.csprojAssemblyReference.cache
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\obj\Debug\Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\obj\Debug\Console.UI.csproj.CopyComplete
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\obj\Debug\Console.UI.exe
+C:\Users\ufuk.demir\source\repos\PersonelApp\Console.UI\obj\Debug\Console.UI.pdb
